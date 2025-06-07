@@ -13,4 +13,5 @@
 - [Pandas]()
 - [Matplotlib]()
 - [Seaborn]()
+- [Scikit-Learn]()
 - [PyTorch]()
